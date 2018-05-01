@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "\\angular",
+    "\\angular\\calc",
+    "\\angular\\calc\\src",
+    "\\angular\\calc\\src\\app",
+    "\\react",
+    "\\vue",
+    "\\vue\\calc",
+    "\\vue\\calc\\src",
+    "\\vue\\calc\\src\\components"
+  ],
+  "PreviewInSolutionExplorer": false
+}
