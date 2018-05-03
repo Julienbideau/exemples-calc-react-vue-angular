@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-  Ma super appli en @VueJS
+ 
     <Calc/>
   </div>
 </template>
