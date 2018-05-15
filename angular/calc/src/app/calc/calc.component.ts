@@ -7,14 +7,14 @@ import { Component, OnInit } from '@angular/core';
 })
 export class CalcComponent implements OnInit {
 
-   formula: string='1';
+   formula: string='';
   constructor() { }
 
   ngOnInit() {
   }
 
   clickDelete() {
-    this.formula = '0';
+    this.formula = '';
   }
 
   clickSign(e) {
