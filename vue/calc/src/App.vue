@@ -1,13 +1,13 @@
 <template>
   <div id="app">
- 
+    <h1> Ma super appli en VueJs</h1>
     <Calc/>
   </div>
 </template>
 
 <script>
 import HelloWorld from './components/HelloWorld'
-import Calc from './components/calc/index'
+import Calc from './components/calc/Calc'
 
 export default {
   name: 'App',
